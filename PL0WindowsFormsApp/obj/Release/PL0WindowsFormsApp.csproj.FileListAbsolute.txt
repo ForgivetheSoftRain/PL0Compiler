@@ -1,0 +1,10 @@
+D:\BUAA\大三上\编译原理\PL0WindowsFormsApp\PL0WindowsFormsApp\bin\Release\PL0WindowsFormsApp.exe.config
+D:\BUAA\大三上\编译原理\PL0WindowsFormsApp\PL0WindowsFormsApp\bin\Release\PL0WindowsFormsApp.exe
+D:\BUAA\大三上\编译原理\PL0WindowsFormsApp\PL0WindowsFormsApp\bin\Release\PL0WindowsFormsApp.pdb
+D:\BUAA\大三上\编译原理\PL0WindowsFormsApp\PL0WindowsFormsApp\obj\Release\PL0WindowsFormsApp.csprojAssemblyReference.cache
+D:\BUAA\大三上\编译原理\PL0WindowsFormsApp\PL0WindowsFormsApp\obj\Release\PL0WindowsFormsApp.Form1.resources
+D:\BUAA\大三上\编译原理\PL0WindowsFormsApp\PL0WindowsFormsApp\obj\Release\PL0WindowsFormsApp.Properties.Resources.resources
+D:\BUAA\大三上\编译原理\PL0WindowsFormsApp\PL0WindowsFormsApp\obj\Release\PL0WindowsFormsApp.csproj.GenerateResource.cache
+D:\BUAA\大三上\编译原理\PL0WindowsFormsApp\PL0WindowsFormsApp\obj\Release\PL0WindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\BUAA\大三上\编译原理\PL0WindowsFormsApp\PL0WindowsFormsApp\obj\Release\PL0WindowsFormsApp.exe
+D:\BUAA\大三上\编译原理\PL0WindowsFormsApp\PL0WindowsFormsApp\obj\Release\PL0WindowsFormsApp.pdb

@@ -1,0 +1,10 @@
+D:\BUAA\大三上\编译原理\PL0WindowsFormsApp\PL0WindowsFormsApp\bin\Debug\PL0WindowsFormsApp.exe.config
+D:\BUAA\大三上\编译原理\PL0WindowsFormsApp\PL0WindowsFormsApp\bin\Debug\PL0WindowsFormsApp.exe
+D:\BUAA\大三上\编译原理\PL0WindowsFormsApp\PL0WindowsFormsApp\bin\Debug\PL0WindowsFormsApp.pdb
+D:\BUAA\大三上\编译原理\PL0WindowsFormsApp\PL0WindowsFormsApp\obj\Debug\PL0WindowsFormsApp.csprojAssemblyReference.cache
+D:\BUAA\大三上\编译原理\PL0WindowsFormsApp\PL0WindowsFormsApp\obj\Debug\PL0WindowsFormsApp.Form1.resources
+D:\BUAA\大三上\编译原理\PL0WindowsFormsApp\PL0WindowsFormsApp\obj\Debug\PL0WindowsFormsApp.Properties.Resources.resources
+D:\BUAA\大三上\编译原理\PL0WindowsFormsApp\PL0WindowsFormsApp\obj\Debug\PL0WindowsFormsApp.csproj.GenerateResource.cache
+D:\BUAA\大三上\编译原理\PL0WindowsFormsApp\PL0WindowsFormsApp\obj\Debug\PL0WindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\BUAA\大三上\编译原理\PL0WindowsFormsApp\PL0WindowsFormsApp\obj\Debug\PL0WindowsFormsApp.exe
+D:\BUAA\大三上\编译原理\PL0WindowsFormsApp\PL0WindowsFormsApp\obj\Debug\PL0WindowsFormsApp.pdb
