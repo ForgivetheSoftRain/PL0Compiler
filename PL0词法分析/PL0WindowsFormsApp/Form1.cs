@@ -215,13 +215,6 @@ namespace PL0WindowsFormsApp
                     adderror(1);
                 }
             }
-            //else if (ch == '=')
-            //{
-            //    sym = 3;
-            //    token = "=";
-            //    value = "=";
-            //    addresult(token, sym, value);
-            //}
             else if (ch == '<')
             {
                 sym = 3;

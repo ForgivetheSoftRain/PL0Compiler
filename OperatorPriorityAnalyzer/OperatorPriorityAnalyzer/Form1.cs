@@ -233,7 +233,7 @@ namespace OperatorPriorityAnalyzer
             }
         }
         
-        //规约优先关系为>
+        //规约
         public string guiyuel(string sym)
         {
             string result="";
@@ -409,13 +409,7 @@ namespace OperatorPriorityAnalyzer
             visited = new int[MAX];
 
             textBox1.Text = "";
-
-            //清空datagirdview
-            //while (dataGridView1.Rows.Count != 0)
-            //{
-            //    dataGridView1.Rows.RemoveAt(0);
-            //}
-            //string[] textgram = new string[textBoxGrammar.Lines.Length];
+            
             HashSet<string> textgram = new HashSet<string>();
             for (int i = 0; i < textBoxGrammar.Lines.Length; i++)
             {
